@@ -1,5 +1,10 @@
 FILE 1 is created 
-class public Login()
+public class Login()
 {
   system.out.println("Hello");
 }
+public class logout(){
+
+system.out.println("logging out");
+}
+
